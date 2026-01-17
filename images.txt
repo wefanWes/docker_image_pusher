@@ -4,4 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.n8n.io/n8nio/n8n
+
+surrealdb/surrealdb:v2
+surrealdb/surrealdb:v2
