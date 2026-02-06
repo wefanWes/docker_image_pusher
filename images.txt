@@ -5,5 +5,6 @@
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-reflyai/qdrant:v1.13.1
-reflyai/refly-web:latest
+#reflyai/qdrant:v1.13.1
+#reflyai/refly-web:latest
+reflyai/refly-api:latest
